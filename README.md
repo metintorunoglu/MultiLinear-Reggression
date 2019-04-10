@@ -1,2 +1,2 @@
 # MultiLinear-Reggression
-In this example we selected our variables by Backward Elemination method.
+Variables are selected by Backward Elemination method.
